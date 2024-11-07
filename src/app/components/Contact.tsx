@@ -1,4 +1,4 @@
-// src/components/Contact.js
+
 function Contact() {
     return (
         <div className="container mx-auto p-4">

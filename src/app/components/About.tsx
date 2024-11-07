@@ -1,4 +1,4 @@
-// src/components/About.js
+
 function About() {
     return (
         <div className="container mx-auto p-4">

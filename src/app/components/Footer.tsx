@@ -1,4 +1,4 @@
-// src/components/Footer.js
+
 function Footer() {
     return (
       <footer className="bg-gray-800 p-4 mt-4">
