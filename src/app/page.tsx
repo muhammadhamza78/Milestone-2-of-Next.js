@@ -1,10 +1,10 @@
 "use client";
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Navbar from './components/Navbar';
-import Footer from './components/Footer';
-import Home from './components/Home';
-import About from './components/About';
-import Contact from './components/Contact';
+import Navbar from './components/Navbar/page';
+import Footer from './components/Footer/page';
+import Home from './components/Home/page';
+import About from './components/About/page';
+import Contact from './components/Contact/page';
 
 
 function App() {
